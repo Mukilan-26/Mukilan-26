@@ -1,16 +1,56 @@
 ## Hi there 👋
+# Hi 👋, I'm Mukilan R
 
-<!--
-**Mukilan-26/Mukilan-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Power BI
 
-Here are some ideas to get you started:
+📊 Passionate about transforming data into meaningful insights  
+📈 Hands-on experience with EDA, Machine Learning & Data Visualization  
+🎓 Internship Trainee – Data Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+- 🌱 Currently learning **Advanced Data Analytics & ML**
+- 🧠 Strong in **EDA, Regression, Model Evaluation**
+- 💼 Internship experience with **real-world datasets**
+- 🎯 Goal: Data Analyst / Junior Data Scientist role
+
+---
+
+### 🛠️ Skills & Tools
+
+**Data Analytics & ML**
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- SQL
+- Excel
+- Power BI
+
+**Machine Learning**
+- Linear Regression
+- Ridge, Lasso
+- Decision Tree
+- Model Evaluation (R², RMSE)
+
+**Tools**
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+
+---
+
+### 📌 Projects
+- 📈 **Sales Prediction Model** – R² Score: **0.98**
+- 📊 **EDA & Data Visualization Project**
+- 🤖 **ML Model Comparison & Hyperparameter Tuning**
+
+---
+
+### 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/your-link
+- 📧 Email: yourmail@gmail.com
+
+---
+
+⭐ *Feel free to explore my repositories*
