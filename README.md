@@ -48,8 +48,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mukilanramadoss
+- 📧 Email: mukilan2672000@outlook.com
 
 ---
 
